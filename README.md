@@ -1,3 +1,3 @@
-Prostory a otocne body krizanovskych plachtaru pro LK8000 a XCSoar.
+Prostory a otočné body křižanovských plachtařů pro LK8000 a XCSoar.
 
 

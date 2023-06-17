@@ -38,6 +38,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata
 "CECHTICE",CECHTICE,CZ,4937.333N,01502.867E,480.0m,16,,,,"Kostel/Church",
 "CERNA.HORA",CERHORA,CZ,4924.983N,01634.733E,328.0m,16,,,,"Zamek/Castle",
 "CERNA.HORA.KRKONOSE",CERNHORA,CZ,5039.133N,01544.517E,1299.0m,7,,,,"Vrchol/Top, Cerna Hora (Krkonose)",
+"CERVENKA",CERVENKA,CZ,4943.437N,01705.475E,236.0m,1,,,,"Nadrazi/Station",
 "CERVENY.VRCH",CERVRCH,CZ,4915.067N,01650.367E,535.0m,7,,,,"Vrchol/Top",
 "CESKA.KAMENICE",CKAMENIC,CZ,5047.733N,01424.783E,500.0m,1,,,,"Nadrazi/Station",
 "CESKA.TREBOVA",CTREBOVA,CZ,4953.833N,01626.800E,376.0m,1,,,,"Nadrazi/Station",
